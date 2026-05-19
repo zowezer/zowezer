@@ -1,5 +1,5 @@
 # MOHAMAD ZOWEZER
-Email: M.ZOWEZER@GMAIL.COM | LinkedIn: linkedin.com/in/mohamad-zowezer
+LinkedIn: linkedin.com/in/mohamad-zowezer
 
 ## SUMMARY
 Detail-oriented and analytical Computer Science & Engineering student at Lund University (LTH), specializing in AI, control systems, and complex dynamics. Currently completing a joint B.Sc. and M.Sc. program (270 ECTS completed) with a Master’s Thesis focused on advanced acoustic particle control. Passionate about applying data-driven methods, machine learning, and control theory to solve sophisticated engineering problems, develop autonomous systems, and improve biomedical workflows.
